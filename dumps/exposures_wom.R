@@ -1,0 +1,2 @@
+exposures.wom <-
+list()

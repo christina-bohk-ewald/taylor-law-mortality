@@ -1,0 +1,2 @@
+deaths.men <-
+list()
